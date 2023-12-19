@@ -1,1 +1,1 @@
-const data ="dddd"
+const data = "update"
